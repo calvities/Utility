@@ -193,7 +193,8 @@ public class RSAUtils {
 	            temp[i * 2 + 1] = (char) (val > 9 ? val + 'A' - 10 : val + '0');  
 	        }  
 	        return new String(temp);  
-	    }  
+	    }
+
 	    /** 
 	     * 拆分字符串 
 	     */  

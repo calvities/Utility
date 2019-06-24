@@ -36,7 +36,6 @@ def bcd2asc(inBcd):
 	return rStr
 
 
-
 key_url = "http://IP:PORT/IFCSI/public/getPublicKey.xhtml"
 login_url = "http://IP:PORT/IFCSI/public/login.xhtml"
 user = ""

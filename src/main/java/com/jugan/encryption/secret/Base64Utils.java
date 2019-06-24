@@ -9,6 +9,7 @@ import java.nio.charset.Charset;
  */
 public class Base64Utils {
 	private static final Base64 BASE64 = new Base64();
+
 	private static final Charset DEFAULT_CHARSET = Charset.forName("UTF-8");
 	
 	public static String encode(byte [] source){

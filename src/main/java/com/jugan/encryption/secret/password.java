@@ -16,4 +16,5 @@ public class password {
         String mi = RSAUtils.encryptByPublicKey("F54F61F63E37A99BDD4026E55BDCC4AF", pubKey);
         System.out.println(mi);
 	}
+
 }
