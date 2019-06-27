@@ -1,4 +1,4 @@
-package com.jugan.encryption.secret;
+package com.calvities.encryption.secret;
 
 import org.apache.commons.codec.binary.Base64;
 

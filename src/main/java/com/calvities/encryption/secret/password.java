@@ -1,4 +1,4 @@
-package com.jugan.encryption.secret;
+package com.calvities.encryption.secret;
 
 import java.security.interfaces.RSAPublicKey;
 
